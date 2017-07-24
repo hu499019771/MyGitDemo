@@ -6,4 +6,7 @@ package com.chinabluedon.mygitdemo;
  * @desc ${TODD}
  */
 public class MyActivity {
+
+
+
 }
